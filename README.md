@@ -5,18 +5,19 @@ Users can explore eco-friendly stays, book rooms, and discover outdoor activitie
 
 ---
 
-## 📱 App Screenshots
+## 🖼️ System Screenshots
 
 ### 🏠 Home Page
+<p align="center">
+  <img src="https://github.com/NaveenDilshan1/cozy-comfort-soc-system/raw/main/home.png" width="700"/>
+</p>
 
-![Home Page](home.png)
+### 🛒 Order Dashboard
+<p align="center">
+  <img src="https://github.com/NaveenDilshan1/cozy-comfort-soc-system/raw/main/order-dashboard.png" width="700"/>
+</p>
 
-### 🔐 Login Page
-
-![Login Page](login.png)
-
-## 📱 Manager Home (Mobile UI)
-
+### 📱 Manager Mobile App
 <p align="center">
   <img src="https://github.com/NaveenDilshan1/cozy-comfort-soc-system/raw/main/manager-home.png" width="300"/>
 </p>
