@@ -18,6 +18,12 @@ EcoStay Retreat is a cross-platform mobile application developed using Flutter a
 
 ---
 
+## 📸 App Screenshots
+
+### 🏠 Home Page
+![Home Page](home.png)
+
+
 ## 🛠️ Technologies Used
 
 - Flutter (Dart)
@@ -27,6 +33,7 @@ EcoStay Retreat is a cross-platform mobile application developed using Flutter a
 - MVVM Architecture
 
 ---
+
 
 ## 🧩 System Architecture
 
