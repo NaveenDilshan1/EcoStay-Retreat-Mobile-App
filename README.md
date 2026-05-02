@@ -6,16 +6,13 @@ Users can explore eco-friendly stays, book rooms, and discover outdoor activitie
 ---
 
 ## 📱 EcoStay Mobile App
-
-### 🏨 Home Screen
-![Home](https://github.com/NaveenDilshan1/cozy-comfort-soc-system/raw/main/home.png)
-
 ### 🔐 Login Screen
-![Login](https://github.com/NaveenDilshan1/cozy-comfort-soc-system/raw/main/login.png)
+
+<img src="https://raw.githubusercontent.com/NaveenDilshan1/cozy-comfort-soc-system/main/login.png" width="300"/>
 
 ### 👨‍💼 Manager Dashboard
-![Manager](https://github.com/NaveenDilshan1/cozy-comfort-soc-system/raw/main/manager-home.png)
 
+<img src="https://raw.githubusercontent.com/NaveenDilshan1/cozy-comfort-soc-system/main/manager-home.png" width="300"/>
 
 ---
 
