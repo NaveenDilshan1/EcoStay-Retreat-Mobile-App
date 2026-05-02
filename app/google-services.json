@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "1049645837175",
+    "project_id": "naveen-63094",
+    "storage_bucket": "naveen-63094.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1049645837175:android:d4799067a2023911b94f72",
+        "android_client_info": {
+          "package_name": "com.example.myapplication11"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_fCUNt5mQrO0FWghMq4KrLf_rF2dT2QQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1049645837175:android:76667733952d36c1b94f72",
+        "android_client_info": {
+          "package_name": "com.example.myapplication12"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_fCUNt5mQrO0FWghMq4KrLf_rF2dT2QQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1049645837175:android:145da6f974f1ff3ab94f72",
+        "android_client_info": {
+          "package_name": "com.example.myapplicationnav"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_fCUNt5mQrO0FWghMq4KrLf_rF2dT2QQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
