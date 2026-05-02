@@ -5,12 +5,7 @@ Users can explore eco-friendly stays, book rooms, and discover outdoor activitie
 
 ---
 
-### 🔐 Login Screen
-![Login](https://raw.githubusercontent.com/NaveenDilshan1/cozy-comfort-soc-system/main/login.png)
-
-### 👨‍💼 Manager Dashboard
-![Manager](https://raw.githubusercontent.com/NaveenDilshan1/cozy-comfort-soc-system/main/manager-home.png)
-
+https://raw.githubusercontent.com/NaveenDilshan1/cozy-comfort-soc-system/main/login.png
 ---
 
 ## ✨ Features
