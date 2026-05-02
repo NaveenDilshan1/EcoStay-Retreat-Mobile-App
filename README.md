@@ -15,6 +15,12 @@ Users can explore eco-friendly stays, book rooms, and discover outdoor activitie
 
 ![Login Page](login.png)
 
+## 📱 Manager Home (Mobile UI)
+
+<p align="center">
+  <img src="https://github.com/NaveenDilshan1/cozy-comfort-soc-system/raw/main/manager-home.png" width="300"/>
+</p>
+
 ---
 
 ## ✨ Features
