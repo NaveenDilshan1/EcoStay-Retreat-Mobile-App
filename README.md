@@ -7,7 +7,10 @@ Users can explore eco-friendly stays, book rooms, and discover outdoor activitie
 
 ## 📱 EcoStay Mobile App
 
-https://raw.githubusercontent.com/NaveenDilshan1/cozy-comfort-soc-system/main/login.png
+### 🏨 Home Screen
+![Home](https://github.com/NaveenDilshan1/cozy-comfort-soc-system/raw/main/home.png)
+
+
 ---
 
 ## ✨ Features
